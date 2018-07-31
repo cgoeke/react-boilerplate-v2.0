@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders LoginPage component 1`] = `
+<div
+  className="login"
+>
+  <div
+    className="login__box"
+  >
+    <h1
+      className="login__title"
+    >
+      React Boilerplate
+    </h1>
+    <p>
+      version 2.0
+    </p>
+    <button
+      className="button"
+      type="submit"
+    >
+      Login with Google
+    </button>
+  </div>
+</div>
+`;
